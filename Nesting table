@@ -1,0 +1,25 @@
+```<table border="1">
+  <tr>
+    <th>Outer Table</th>
+    <th>Column 2</th>
+  </tr>
+  <tr>
+    <td>
+      <table border="1">
+        <tr>
+          <th>Inner Table</th>
+          <th>Column 2</th>
+        </tr>
+        <tr>
+          <td>Row 1, Cell 1</td>
+          <td>Row 1, Cell 2</td>
+        </tr>
+        <tr>
+          <td>Row 2, Cell 1</td>
+          <td>Row 2, Cell 2</td>
+        </tr>
+      </table>
+    </td>
+    <td>Outer Table Cell 2</td>
+  </tr>
+</table>
